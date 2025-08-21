@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+scikit-learn
+tensorflow>=2.9
+matplotlib
+albumentations
+joblib
+pandas
